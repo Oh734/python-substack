@@ -16,3 +16,4 @@ Notes and usage details for python-substack.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
